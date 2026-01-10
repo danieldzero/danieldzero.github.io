@@ -13,8 +13,7 @@ export function Hero() {
           </div>
           
           <p className="text-lg text-gray-600 max-w-lg">
-            Passionate about transforming data into actionable insights. Specializing in machine learning, 
-            statistical analysis, and data visualization to solve real-world problems.
+            I'm a Telecom Engineer diving into the world of Data Science. I love taking complex network data and turning it into clear, actionable insights. My focus is on bridging the gap between technical infrastructure and predictive analytics to solve real-world problems in a smarter way.
           </p>
           
           <div className="flex gap-4">
