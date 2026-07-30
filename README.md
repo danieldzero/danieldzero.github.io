@@ -1,3 +1,5 @@
+# Portfolio for Junior Data Scientist
+**Version de prueba** no es version final, tan solo muestra algunos proyectos y herramientas que se han aplicado.
+En proceso de construcción.
 
-  # Portfolio for Junior Data Scientist
-Esta es una primera presentacion, no es la version final
+[danieldzero.github.io](https://danieldzero.github.io)
